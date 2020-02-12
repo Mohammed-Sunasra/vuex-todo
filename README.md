@@ -1,5 +1,10 @@
 # vuex-todo
 
+## Optional: To create a Vue app
+```
+vue create appname
+```
+
 ## Project setup
 ```
 npm install
